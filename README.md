@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hridya Harshan</h1>
+<h1 align="center">Hi 👋 , I'm Hridya Harshan</h1>
 <h3 align="center">A passionate frontend developer and ML Reseacher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridya7602&label=Profile%20views&color=0e75b6&style=flat" alt="hridya7602" /> </p>
